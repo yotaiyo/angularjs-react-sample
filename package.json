@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel react.jsx -d dest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yotaiyo/angularjs-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yotaiyo/angularjs-sample/issues"
+  },
+  "homepage": "https://github.com/yotaiyo/angularjs-sample#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
